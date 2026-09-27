@@ -1,0 +1,24 @@
+EVIDENCIA DE EJECUCION
+
+Compilacion Java:
+javac -encoding UTF-8 -d build src/*.java
+Resultado: compilacion exitosa.
+
+Ejecucion 1:
+java GenerateInfoFiles
+Salida:
+Generacion de archivos finalizada exitosamente.
+
+Ejecucion 2:
+java main
+Salida:
+Procesamiento finalizado exitosamente.
+Reporte generado: output/reporte_vendedores.csv
+Reporte generado: output/reporte_productos.csv
+
+Archivos generados en la prueba:
+- data/vendedores.txt: 10 registros
+- data/productos.txt: 20 registros
+- data/ventas/: 20 archivos de ventas (2 por vendedor)
+- output/reporte_vendedores.csv: 10 registros
+- output/reporte_productos.csv: 20 registros

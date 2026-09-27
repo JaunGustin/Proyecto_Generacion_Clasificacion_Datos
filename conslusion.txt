@@ -1,0 +1,23 @@
+CONCLUSION DEL PROYECTO
+
+1. Lo aprendido durante el desarrollo del proyecto
+
+Durante el desarrollo del proyecto se fortalecieron los conocimientos sobre programación en Java, especialmente el diseño y uso de métodos. La lectura fundamental explica que los métodos permiten dividir un problema general en subproblemas independientes, favoreciendo la legibilidad, reutilización, mantenimiento y documentación del código.
+
+En el proyecto se aplicó este enfoque mediante métodos separados para generar archivos, leer vendedores y productos, procesar archivos de ventas, validar información, acumular valores y generar reportes. También se reforzó el manejo de cadenas, archivos de texto, estructuras de datos, parámetros, argumentos, ciclos, ordenamiento y excepciones.
+
+2. Aplicaciones profesionales
+
+Las habilidades desarrolladas son aplicables a sistemas de información que procesan grandes cantidades de datos, por ejemplo, sistemas de ventas, inventarios, facturación, reportes administrativos y procesos de integración de archivos.
+
+La organización modular facilita que un programa pueda crecer sin convertir una sola función en un bloque difícil de mantener. La validación de datos también es importante en ambientes profesionales porque permite detectar errores antes de que información incorrecta afecte los resultados.
+
+3. Dificultades presentadas
+
+Las principales dificultades estuvieron relacionadas con la lectura de varios archivos, la asociación de cada archivo con el vendedor correspondiente, la acumulación de ventas por vendedor y producto y el ordenamiento de los resultados.
+
+También fue necesario controlar situaciones de error como productos inexistentes, cantidades negativas, formatos incorrectos y vendedores que no estuvieran registrados. Estas dificultades permitieron comprender la importancia de diseñar métodos con responsabilidades específicas y de validar las entradas antes de utilizarlas.
+
+Conclusión general
+
+El proyecto permitió integrar los conceptos de funciones o métodos con un problema práctico de generación, clasificación y procesamiento de datos. La solución obtenida es modular, documentada y preparada para procesar más de un archivo por vendedor, además de incorporar validaciones que mejoran su confiabilidad.
